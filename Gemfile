@@ -33,6 +33,7 @@ end
 
 group :test do
     gem 'rspec'
+    gem 'webrat'
 end
 
 # To use ActiveModel has_secure_password

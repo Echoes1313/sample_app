@@ -1,10 +1,12 @@
 ---
+logo.png: logo-5e9594bb5a5f637cefea6cb9d8dd6195.png
+logo/index.png: logo-5e9594bb5a5f637cefea6cb9d8dd6195.png
 rails.png: rails-a3386665c05a2d82f711a4aaa72d247c.png
 rails/index.png: rails-a3386665c05a2d82f711a4aaa72d247c.png
-application.js: application-f51a00e650a4c3f5b0f7c676a2dfa530.js
-application/index.js: application-f51a00e650a4c3f5b0f7c676a2dfa530.js
-application.css: application-10acc7077cfd8dc4a5a0ebc20d61d351.css
-application/index.css: application-10acc7077cfd8dc4a5a0ebc20d61d351.css
+application.js: application-881c7be0f94073ee224b791f9deb4d90.js
+application/index.js: application-881c7be0f94073ee224b791f9deb4d90.js
+application.css: application-9bbbb60ad424a67d068dad160d4d0e2d.css
+application/index.css: application-9bbbb60ad424a67d068dad160d4d0e2d.css
 blueprint/plugins/buttons/icons/cross.png: blueprint/plugins/buttons/icons/cross-347854b76d491352f5429d86706e1f79.png
 blueprint/plugins/buttons/icons/cross/index.png: blueprint/plugins/buttons/icons/cross-347854b76d491352f5429d86706e1f79.png
 blueprint/plugins/buttons/icons/key.png: blueprint/plugins/buttons/icons/key-f95cffaa01ae4b233cb04e2899cee363.png
